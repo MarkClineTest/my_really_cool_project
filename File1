@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 File 1 - updated in Master
+=======
+File 1
+Updated in foo_feature. 2nd line
+>>>>>>> foo_feature
